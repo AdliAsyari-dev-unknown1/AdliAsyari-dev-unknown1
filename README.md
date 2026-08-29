@@ -23,3 +23,15 @@
 - 🎯 Fokus   : Web Development & Programming (Sedang Berkembang)
 - 💤 Hobi    : Tidur 🛌 | Lari 🏃 | Workout 🏋️
 - 👾 Style   :
+
+### 💻 **Tech Stack**
+
+- 🌐 **Web Development:** `HTML5` | `CSS3` | `JavaScript`
+- ⚡ **Programming Languages:** `C++` | `Python`
+- 🚀 **Sedang Dipelajari:** Logika Pemrograman & Algoritma Lanjutan
+
+<br>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,cpp,py&theme=dark" alt="My Skills" />
+</p>
