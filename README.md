@@ -1,7 +1,7 @@
 ### 🎬 **Klip Featured / Video**
 
 <p align="center">
-  <img src="https://id.pinterest.com/pin/2392606048318920/" width="100%" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmN1dWJ2dXZ1d3p6emtvZ3BhMXZqd3lzcjNrdmV3aXp1eWM1MzZ6ZiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/2Pk9newN8fkbu/giphy.gif" width="100%" />
 </p>
 
 <div align="center">
