@@ -1,10 +1,4 @@
-### 🎬 **Klip Featured / Video**
 
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmN1dWJ2dXZ1d3p6emtvZ3BhMXZqd3lzcjNrdmV3aXp1eWM1MzZ6ZiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/2Pk9newN8fkbu/giphy.gif" width="100%" />
-</p>
-
-<div align="center">
 
 <!-- Banner Animasi Selamat Datang dengan Gaya Cyber/RGB -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D2FF,50:0055FF,100:8A2BE2&height=220&section=header&text=SELAMAT%20DATANG!&fontSize=48&fontColor=ffffff&fontAlignY=40&animation=fadeIn" width="100%" alt="Header RGB Pixel" />
@@ -15,8 +9,15 @@
 </a>
 
 </div>
+### 🎬 **Klip Featured / Video**
 
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ZnFoYXB2dTdtYW93anVraGtpaWFmam42NXhpbnJpa3hpYWt6ejdsaSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/wsOUK1nwE7gWCWvgj3/giphy.gif" width="100%" />
+</p>
+
+<div align="center">
 ---
+
 
 ### 🎮 **Tentang Saya**
 
@@ -27,3 +28,19 @@
 - 🎯 Fokus   : Web Development & Programming (Sedang Berkemban)
 - 💤 Hobi    : Tidur 🛌 | Lari 🏃 | Workout 🏋️
 - 👾 Style   : 8-Bit / Blue Pixel Aesthetic
+
+### 🛠️ **Bahasa & Pemrograman yang Dikuasai**
+
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-00D2FF?style=for-the-badge&logo=html5&logoColor=black" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-0055FF?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-1E90FF?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+</p>
+
+### 🐍 **Game Ular Kontribusi**
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AdliAsyari-dev-unknown1/AdliAsyari-dev-unknown1/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+</p>
