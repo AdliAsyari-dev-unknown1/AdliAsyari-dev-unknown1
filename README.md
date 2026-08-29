@@ -21,7 +21,7 @@
 
 ### 🎮 **Tentang Saya**
 
-```text
+text
 [SYSTEM INFO]
 - 👤 Umur    : 16 Tahun
 - 📅 Lahir   : 18 Oktober 2009
