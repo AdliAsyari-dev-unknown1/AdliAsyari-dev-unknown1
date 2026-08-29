@@ -1,3 +1,9 @@
+### 🎬 **Klip Featured / Video**
+
+<p align="center">
+  <img src="https://id.pinterest.com/pin/2392606048318920/" width="100%" />
+</p>
+
 <div align="center">
 
 <!-- Banner Animasi Selamat Datang dengan Gaya Cyber/RGB -->
