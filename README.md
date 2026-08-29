@@ -16,8 +16,6 @@
 
 ### 🎮 **Tentang Saya**
 
-```text
-[SYSTEM INFO]
 - 👤 Umur    : 16 Tahun
 - 📅 Lahir   : 18 Oktober 2009
 - 🎯 Fokus   : Web Development & Programming (Sedang Berkembang)
