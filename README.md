@@ -9,11 +9,11 @@
 </a>
 
 </div>
-### 🎬 **Klip Featured / Video**
-
+🎬 **Klip Featured / Video**
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ZnFoYXB2dTdtYW93anVraGtpaWFmam42NXhpbnJpa3hpYWt6ejdsaSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/wsOUK1nwE7gWCWvgj3/giphy.gif" width="100%" />
 </p>
+
 
 <div align="center">
 ---
