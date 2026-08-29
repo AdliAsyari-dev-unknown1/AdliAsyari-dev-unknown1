@@ -11,9 +11,8 @@
 </div>
 🎬 **Klip Featured / Video**
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ZnFoYXB2dTdtYW93anVraGtpaWFmam42NXhpbnJpa3hpYWt6ejdsaSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/wsOUK1nwE7gWCWvgj3/giphy.gif" width="100%" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnQxbXoyNDVucGRhcDlzc2JsOGRtNXQ0bnlueWx3ancxNDF4ZHI3eSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/13cswZEvNJM7ZK/giphy.gif" width="100%" />
 </p>
-
 
 <div align="center">
 ---
@@ -39,8 +38,3 @@ text
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
-### 🐍 **Game Ular Kontribusi**
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/AdliAsyari-dev-unknown1/AdliAsyari-dev-unknown1/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
-</p>
